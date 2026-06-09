@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>PhoebeOS</title>
+        <link>https://raw.githubusercontent.com/zaicv/PhoebeOS/main/appcast.xml</link>
+        <description>PhoebeOS app updates</description>
+        <language>en</language>
+    </channel>
+</rss>
