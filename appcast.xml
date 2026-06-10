@@ -1,9 +1,16 @@
-<?xml version="1.0" standalone="yes"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>PhoebeOS</title>
         <link>https://raw.githubusercontent.com/zaicv/PhoebeOS/main/appcast.xml</link>
         <description>PhoebeOS app updates</description>
         <language>en</language>
+        <item>
+            <title>PhoebeOS v1.2.0</title>
+            <pubDate>Wed, 10 Jun 2026 06:42:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Added New MacDial Launcher]]></description>
+            <enclosure url="https://github.com/zaicv/phoebeos-releases/releases/download/v1.2.0/PhoebeOS-1.2.0.dmg" sparkle:version="202606100133" sparkle:shortVersionString="1.2.0" sparkle:edSignature="oF9X6jmqiXYHPK6NAgICdVM8GWsXIyn9P6erpS62h7neaHqH4V6Un5gp3b85OqdUwa9lqeYV9/1tnq3atJutCg==" length="119936568" type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
