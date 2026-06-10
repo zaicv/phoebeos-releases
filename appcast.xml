@@ -6,10 +6,17 @@
         <description>PhoebeOS app updates</description>
         <language>en</language>
         <item>
+            <title>PhoebeOS v1.4.0</title>
+            <pubDate>Wed, 10 Jun 2026 22:15:17 +0000</pubDate>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Fixed update signature validation]]></description>
+            <enclosure url="https://github.com/zaicv/phoebeos-releases/releases/download/v1.4.0/PhoebeOS-1.4.0.dmg" sparkle:version="202606101708" sparkle:shortVersionString="1.4.0" sparkle:edSignature="1QmZrTvzkPYcmqX0Jlk8U5HeFIASqDNdQYZ6fUQHHAFf+c/7l61ujtH9EMjSLnxkQyfN1pd6xQH4RukRtTRqCg==" length="120584822" type="application/octet-stream" />
+        </item>
+        <item>
             <title>PhoebeOS v1.3.0</title>
             <pubDate>Wed, 10 Jun 2026 21:30:31 +0000</pubDate>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[Added Full Metal &amp; Atelier]]></description>
+            <description>Added Full Metal &amp;amp; Atelier</description>
             <enclosure url="https://github.com/zaicv/phoebeos-releases/releases/download/v1.3.0/PhoebeOS-1.3.0.dmg" sparkle:version="202606101623" sparkle:shortVersionString="1.3.0" sparkle:edSignature="GwtMjkXta7O050+UHdep5SP7hocnFaFlBpg+W2FQ+AqS7llZhdP96Y9hoYu3cRgLUwiEN4j6Un+tpci1ab1mBg==" length="120584892" type="application/octet-stream" />
         </item>
         <item>
