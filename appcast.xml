@@ -6,10 +6,17 @@
         <description>PhoebeOS app updates</description>
         <language>en</language>
         <item>
+            <title>PhoebeOS v1.3.0</title>
+            <pubDate>Wed, 10 Jun 2026 21:30:31 +0000</pubDate>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Added Full Metal &amp; Atelier]]></description>
+            <enclosure url="https://github.com/zaicv/phoebeos-releases/releases/download/v1.3.0/PhoebeOS-1.3.0.dmg" sparkle:version="202606101623" sparkle:shortVersionString="1.3.0" sparkle:edSignature="GwtMjkXta7O050+UHdep5SP7hocnFaFlBpg+W2FQ+AqS7llZhdP96Y9hoYu3cRgLUwiEN4j6Un+tpci1ab1mBg==" length="120584892" type="application/octet-stream" />
+        </item>
+        <item>
             <title>PhoebeOS v1.2.0</title>
             <pubDate>Wed, 10 Jun 2026 06:42:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[Added New MacDial Launcher]]></description>
+            <description>Added New MacDial Launcher</description>
             <enclosure url="https://github.com/zaicv/phoebeos-releases/releases/download/v1.2.0/PhoebeOS-1.2.0.dmg" sparkle:version="202606100133" sparkle:shortVersionString="1.2.0" sparkle:edSignature="oF9X6jmqiXYHPK6NAgICdVM8GWsXIyn9P6erpS62h7neaHqH4V6Un5gp3b85OqdUwa9lqeYV9/1tnq3atJutCg==" length="119936568" type="application/octet-stream" />
         </item>
     </channel>
