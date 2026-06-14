@@ -6,10 +6,17 @@
         <description>PhoebeOS app updates</description>
         <language>en</language>
         <item>
+            <title>PhoebeOS v1.4.5</title>
+            <pubDate>Sun, 14 Jun 2026 03:56:12 +0000</pubDate>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Added Nexus Streaming Game Service]]></description>
+            <enclosure url="https://github.com/zaicv/phoebeos-releases/releases/download/v1.4.5/PhoebeOS-1.4.5.dmg" sparkle:version="202606132248" sparkle:shortVersionString="1.4.5" sparkle:edSignature="sL6FaYbkmnvjqQN6I5B+ZqxHvAqJ1mfAHPcsYJmAsUaKzTtoVcZwc7vdUnFfZ8CreaE31N36CGAWexqHF4y2CQ==" length="121674750" type="application/octet-stream" />
+        </item>
+        <item>
             <title>PhoebeOS v1.4.1</title>
             <pubDate>Thu, 11 Jun 2026 04:58:03 +0000</pubDate>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[Another try at fixing signing update issue]]></description>
+            <description>Another try at fixing signing update issue</description>
             <enclosure url="https://github.com/zaicv/phoebeos-releases/releases/download/v1.4.1/PhoebeOS-1.4.1.dmg" sparkle:version="202606102350" sparkle:shortVersionString="1.4.1" sparkle:edSignature="RZr0IXHfM6btCtaKPXZVnNwAD8BqRgoT5Id+S/9mSCGOGnyGmy4lLbDK5TBGD1J5Q8pSPxwDOVsOkdOnH4OKAQ==" length="120674494" type="application/octet-stream" />
         </item>
         <item>
